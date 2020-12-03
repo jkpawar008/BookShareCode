@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562115370290",
+    "firebase_url": "https://jayeshpro-3a68e.firebaseio.com",
+    "project_id": "jayeshpro-3a68e",
+    "storage_bucket": "jayeshpro-3a68e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562115370290:android:294119cbf890fd01f34b2b",
+        "android_client_info": {
+          "package_name": "com.example.simpleloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562115370290-lg6hqvplge5aode8qdcs98rr4hccbq6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleloginapp",
+            "certificate_hash": "303b0384cb1b52bb5be7cb74e3c4cbf8bca9c3e3"
+          }
+        },
+        {
+          "client_id": "562115370290-0t2copdlj8nnoifsglspbi7v9h3scp4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10ICrmZ0oJQTGSgAYtYAWX7MoV8505zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562115370290-0t2copdlj8nnoifsglspbi7v9h3scp4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
