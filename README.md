@@ -1,2 +1,2 @@
 # BookShareCode
-this is repo for bookshare app 
+You'll find the code in master repo :)
